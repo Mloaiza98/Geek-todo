@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/https//Mloaiza98.github.io/Geek-todo/static/css/main.1368e1c4.css",
+    "main.js": "/https//Mloaiza98.github.io/Geek-todo/static/js/main.4b18db42.js",
+    "index.html": "/https//Mloaiza98.github.io/Geek-todo/index.html",
+    "main.1368e1c4.css.map": "/https//Mloaiza98.github.io/Geek-todo/static/css/main.1368e1c4.css.map",
+    "main.4b18db42.js.map": "/https//Mloaiza98.github.io/Geek-todo/static/js/main.4b18db42.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1368e1c4.css",
+    "static/js/main.4b18db42.js"
+  ]
+}
