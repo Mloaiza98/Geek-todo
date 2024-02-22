@@ -1,0 +1,41 @@
+.TodoItem {
+  border-radius: 2em;
+  background-color: #282c34;
+  margin: 1rem;
+  display: flex;
+  position: relative;
+}
+.TodoItem p {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  left: 12px;
+}
+
+.TodoItemButton {
+  background: #4bafaf;
+  border: 4px solid #282c34;
+  border-radius: 50%;
+  color: #282c34;
+  font: normal bold 29px/1 "Calibri", sans-serif;
+  height: 40px;
+  width: 40px;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  display: flex;
+  font-size: 24px;
+  font-weight: 700;
+  position: absolute;
+  right: 12px;
+  transform: scale(80%);
+  transition: .3s ease;
+}
+
+.TodoItemButton:hover {
+  transform:scale(100%);
+}
+.CompleteTodo{
+  opacity: 50%;
+}

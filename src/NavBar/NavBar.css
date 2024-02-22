@@ -1,0 +1,14 @@
+.navBar{
+    display: flex;
+    position: fixed;
+    top: 0;
+    right: 0;
+    justify-content: center;
+    width: 100%;
+    z-index: 1;
+    background-color: #282c34;
+}
+.navBarButton {
+    background-color: #282c34;
+    color: aqua;
+}
